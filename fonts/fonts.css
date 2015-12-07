@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family:'futura_bookbold';
+    src: url('futura-book-bold-webfont.eot');
+    src: url('futura-book-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('futura-book-bold-webfont.woff2') format('woff2'),
+         url('futura-book-bold-webfont.woff') format('woff'),
+         url('futura-book-bold-webfont.ttf') format('truetype'),
+         url('futura-book-bold-webfont.svg#futura_bookbold') format('svg');
+    font-weight:normal; font-style:normal;
+}
+
+@font-face {
+    font-family:'HelveticaNeueRegular';
+    src: url('helveticaneue.eot');
+    src: url('helveticaneue.eot') format('embedded-opentype'),
+         url('helveticaneue.woff2') format('woff2'),
+         url('helveticaneue.woff') format('woff'),
+         url('helveticaneue.ttf') format('truetype'),
+         url('helveticaneue.svg#HelveticaNeueRegular') format('svg');
+    font-weight:normal; font-style:normal;
+}
+
+@font-face {
+    font-family:'HelveticaLight';
+    src: url('HelveticaLight.eot');
+    src: url('HelveticaLight.eot') format('embedded-opentype'),
+         url('HelveticaLight.woff2') format('woff2'),
+         url('HelveticaLight.woff') format('woff'),
+         url('HelveticaLight.ttf') format('truetype'),
+         url('HelveticaLight.svg#HelveticaLight') format('svg');
+    font-weight:normal; font-style:normal;
+}
